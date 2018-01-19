@@ -2,7 +2,7 @@
 
 Pues les cuento antes no me gustaba utilizar la terminal, la veia como un moustro que no alcanzaria a derrotar, pero ahora vivo encantada con ella me ahorra muchos pasos a la hora de realizar cualquier accion. Para muchos la terminal en cualquiera de nuentras S.O. que manejemos (Microsoft Windows, Apple Mac OS X, Linux, entre otros), es un herramienta muy indispensable para los programadores, como tambien cualquier usuario que la quiera utilizar.
 
-Pero muchos queremos ver nuestra terminal elegante y flexible, pues existe ZSH (Z shell), una terminal para uso interactivo que nos permitirá ser más eficientes cuando estemos delante de la consola. El siguiente nivel es [**Oh My ZSH**], que es un *framework* desarrollado por la comunidad para gestionar la configuración de ZSH
+Pero muchos queremos ver nuestra terminal elegante y flexible, pues existe ZSH (Z shell), una terminal para uso interactivo que nos permitirá ser más eficientes cuando estemos delante de la consola. El siguiente nivel es [**Oh My ZSH**], que es un *framework* desarrollado por la comunidad para gestionar la configuración de ZSH. ![ohmyzsh][imgohmyzsh]
 
 
 
@@ -48,7 +48,7 @@ Pero muchos queremos ver nuestra terminal elegante y flexible, pues existe ZSH (
 <!--<>-->
 
 <!-- Enlaces de Imagenes -->
-[consola]: /img/Git_Bash.png  "Abrir Consola Git Bash"
+[imgohmyzsh]: /img/ohmyzsh.png  "img Oh My ZSH"
 
 
 <!-- Enlaces de Gifs -->
